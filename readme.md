@@ -4,8 +4,7 @@
 [1,2,3,4,5,6] y ["1", "2", "3"]
 Concatenar ambos arrays en uno solo
 
-3. 
-En este ejercicio vas a escribir el código en el editor online. Intenta realizar el siguiente script :
+3. En este ejercicio vas a escribir el código en el editor online. Intenta realizar el siguiente script :
 
 Declara un array que vamos a llamar “clasificaciones” con los siguientes valores:
 Ana, Oswaldo, Raúl, Celia, María, Antonio
